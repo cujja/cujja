@@ -39,8 +39,8 @@ Turning questions into genre-based stories, optionally spoken.
 ![Docker](https://img.shields.io/badge/Docker-5E81AC?style=for-the-badge&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-81A1C1?style=for-the-badge&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-5E81AC?style=for-the-badge&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-5E81AC?style=for-the-badge&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-81A1C1?style=for-the-badge&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-81A1C1?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5E81AC?style=for-the-badge&logoColor=white)
 
 
 ### Connect
