@@ -1,6 +1,6 @@
 ## Hello there, I'm Wesley 👋🏻
 
-**`Dev Lead @ Xerius · Building things with .NET · Always learning`**
+**`Dev-lead @ Xerius · Building things with .NET · Always learning`**
 
 
 ### About me
